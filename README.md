@@ -1,8 +1,8 @@
-![LOGO](https://gitee.com/zhuyanzhen1/mini-foc/raw/main/docs/image/LOGO.png)
+![LOGO](https://raw.githubusercontent.com/ZhuYanzhen1/miniFOC/main/docs/image/LOGO.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Version](https://img.shields.io/badge/Version-1.0.1-brightgreen.svg)&nbsp;&nbsp;![Build](https://img.shields.io/badge/Build-Passed-success.svg)&nbsp;&nbsp;![License](https://img.shields.io/badge/License-AGPL-blue.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English / [中文](https://gitee.com/zhuyanzhen1/minifoc_firmware/blob/master/README_CN.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Version](https://img.shields.io/badge/Version-1.1.1-brightgreen.svg)&nbsp;&nbsp;![Build](https://img.shields.io/badge/Build-Passed-success.svg)&nbsp;&nbsp;![License](https://img.shields.io/badge/License-AGPL-blue.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English / [中文](https://github.com/ZhuYanzhen1/miniFOC_Firmware/blob/master/README_CN.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Are you still buying a DC brushless motor drive module for more than 10￥? Are you still worried about the high noise, low response speed and low life of brush motor? Let's take a look at this project, a FOC brushless motor control scheme that can be done for 20￥!  **miniFOC** has built-in torque closed-loop controller to provide you with a brushless motor controller that can be controlled through 3-wire serial port. The project is planned to complete the development of basic functions by the end of August 2021. The software and hardware design fully comply with the AGPL-3.0 License.
+&nbsp;&nbsp;&nbsp;&nbsp;Are you still buying a DC brush motor drive module in about 3 \$? Are you still worried about the high noise in addition to the already low response speed and life? Allow me to present you our project, miniFOC---- a FOC brushless motor control scheme that can get you the most bang for your buck, for just 3 \$!  **miniFOC** has a built-in torque closed-loop controller so that you can control a brushless motor with a 3-wire UART port. The software and hardware design are fully compliant with the AGPL-3.0 open source license.
 
 ***
 
@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;This warehouse is the main warehouse **miniFOC** used to store GitHub action auto compiled firmware. To view the main repository, click here:
 
 + View main repository in [Github](https://github.com/ZhuYanzhen1/miniFOC)
-+ View main repository in [Gitee](https://gitee.com/zhuyanzhen1/mini-foc)
+
 
 ### License
 
